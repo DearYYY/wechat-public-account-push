@@ -19,11 +19,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '琳琳大小姐',
+      name: '琳宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oL_N-6bZEh1pqYAW7dewzmHCq8XU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'tqcJlNida-ncC0tuh5Q_dQyflIkRLUGKGWOTrxhtWYw',
+      useTemplateId: 'hKT6S9Wr8ViUTyrajwQWEqQkOR5IIOlFRl-aZao3iGY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
      horoscopeDate: '02-19',
       festivals: [
@@ -42,9 +42,9 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2023-02-14' },
+        { keyword: 'love_day', date: '2023-05-12' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2023-02-14' },
+        { keyword: 'marry_day', date: '2023-05-12' },
       ],
     },
   ],
